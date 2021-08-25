@@ -1,0 +1,15 @@
+What is lambda function?
+
+After you make your Lambda work, it is consistently prepared to run 
+when set off, like a formula in a spreadsheet. Each function
+incorporates your code just as related design data, including the
+capacity name and asset prerequisites. Lambda capacities
+are "stateless," with no bias to the hidden foundation, so Lambda
+can quickly dispatch however many duplicates of the capacity on a
+case-by-case basis to scale to the pace of approaching occasions. 
+
+After you transfer your code to AWS Lambda,
+you can connect your function with explicit AWS assets, 
+for example, a specific Amazon S3 can, Amazon DynamoDB table,
+Amazon Kinesis stream, or Amazon SNS warning. Then, at that point,
+when the function changes, Lambda will execute your function and compute resources as needed.
